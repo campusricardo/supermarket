@@ -40,7 +40,7 @@ error_reporting(E_ALL);
       <div class="perfil">
         <h3 style="margin-bottom: 2rem;">Camper Skills.</h3>
         <img src="https://img.freepik.com/vector-gratis/astronauta-dabbing-cartoon-vector-icon-illustration-concepto-icono-tecnologia-ciencia-aislado-vector-premium-estilo-dibujos-animados-plana_138676-3360.jpg?w=2000" alt="" class="imagenPerfil">
-        <h3>Sergio Prada</h3>
+        <h3> Ricardo Franco </h3>
       </div>
       <div class="menus">
         <a href="#" style="display: flex;gap:2px;">
